@@ -1,0 +1,28 @@
+Ferramentas a verificar:
+
+-Laravel Sail
+-Docker
+-FIlamentPHP
+-Sqlite
+
+Para iniciar o desenvolvimento será necessario Criar um novo projeto de Laravel do zero.
+
+Recriar a pasta do projeto utilizando o Laravel + FilamentPHP + SQLite para desenvolvimento.
+
+Começar recriando o modelo de sala e entender quais são os componentes necessãrios para fazer o modelo sala funcionar corretamente.
+
+Tela de Admin e Usuário comum:
+
+Criar as telas de usuário e de admin, ambas as telas se iniciam na tela principal do app que é um dashboard com todas as salas que são disponiveis para reserva, ao selecionar a sala com a opção desejada sendo: 
+Reserva Definida ou Reserva Indefinida.
+
+Reserva Definida: um modal ira aparecer na tela mostrando 5 campos: Nome da reserva, Data de Inicio, Data de Fim, Periodo Ex:(Matutino, Vespertino e Noturno), descrição da reserva. Nesta opção o usuário irá realizar uma
+reserva que só irá durar um periodo por exemplo: reservar o lab 7 do dia 29/08/25 até o dia 05/08/2025 no periodo matutino, caso o usuário deseje alterar alguma opção da reserva será necessário exclui-la
+criar uma nova reserva.
+
+Reserva Indefinida: um modal ira aparecer na tela mostrando 4 campos: Nome da reserva, Dias da semana na qual a sala estará reservada, periodo e descrição da reserva. Neste opção servira para o usuário que deseja realizar
+uma reserva na qual não tem data definida para acabar por exemplo: a computação resolveu reservar o lab 4 indefinidamente na sexta-feira no periodo noturno para realizar orientações de estágio, neste caso é necessário excluir
+a reserva para que a sala fique disponivel novamente.
+
+
+
