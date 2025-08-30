@@ -7,6 +7,10 @@ Ferramentas a verificar:
 
 Para iniciar o desenvolvimento será necessario Criar um novo projeto de Laravel do zero.
 
+Iniciar a criação do projeto limpo
+
+Macoaure
+
 Recriar a pasta do projeto utilizando o Laravel + FilamentPHP + SQLite para desenvolvimento.
 
 Começar recriando o modelo de sala e entender quais são os componentes necessãrios para fazer o modelo sala funcionar corretamente.
